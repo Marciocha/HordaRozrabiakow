@@ -12,7 +12,7 @@
     <link rel="stylesheet" href="../../css/main.css" type="text/css" />
 </head>
 <body>
-<form class="form-horizontal" action="/login" method="post">
+<form class="form-horizontal" action="/personalDetails" method="post">
 <div class="col-sm-offset-2">
     <h1 class="display-2">Formatka dodawania danych</h1>
     <h2 class="display-2">Prosimy o wypełnienie poniższych danych</h2>
